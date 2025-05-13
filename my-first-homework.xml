@@ -1,0 +1,48 @@
+<dreamTeams>
+    <myDreamTeam>
+   <lakersTeam>
+      <namePlayer>Luka Doncic</namePlayer>
+      <positions>guard</positions>
+      <number>77</number>
+      <age>27</age>
+      <finalsMvp>false</finalsMvp>
+   </lakersTeam>    
+    <bostonTeam>
+      <namePlayer>Jayson Tatum</namePlayer>
+      <positions>forward</positions>
+      <number>0</number>
+      <age>27</age>
+      <finalsMvp>true</finalsMvp> 
+    </bostonTeam> 
+    <bullsTeam>      
+      <namePlayer>Michael Jordan</namePlayer>
+      <positions>guard</positions>
+      <number>23</number>
+      <age>72</age>
+      <finalsMvp>true</finalsMvp>
+    </bullsTeam> 
+  </myDreamTeam>
+  <brotherDreamTeam>
+      <lakersTeam>
+      <namePlayer>LeBron James</namePlayer>
+      <positions>forward</positions>
+      <number>23</number>
+      <age>39</age>
+      <finalsMvp>true</finalsMvp> 
+      </lakersTeam> 
+    <bostonTeam>
+      <namePlayer>Jaylen Brown</namePlayer>
+      <positions>forward</positions>
+      <number>99</number>
+      <age>22</age>
+      <finalsMvp>false</finalsMvp>
+    </bostonTeam> 
+    <bullsTeam>      
+      <namePlayer>Michael Jordan</namePlayer>
+      <positions>guard</positions>
+      <number>23</number>
+      <age>72</age>
+      <finalsMvp>true</finalsMvp>
+    </bullsTeam> 
+  </brotherDreamTeam>
+</dreamTeams>
