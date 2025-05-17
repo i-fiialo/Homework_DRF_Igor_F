@@ -1,0 +1,44 @@
+dreamTeams:
+  myDreamTeam:
+    lakersTeam:
+      namePlayer: "Luka Doncic"
+      positions: guard
+      number: 77
+      age: 27
+      finalsMvp: false
+
+    bostonTeam:
+      namePlayer: "Jayson Tatum"
+      positions: forward
+      number: 0
+      age: 27
+      finalsMvp: true
+
+    bullsTeam:
+      namePlayer: "Michael Jordan"
+      positions: guard
+      number: 23
+      age: 72
+      finalsMvp: true
+
+  brotherDreamTeam:
+    lakersTeam:
+      namePlayer: "LeBron James"
+      positions: forward
+      number: 23
+      age: 39
+      finalsMvp: true
+
+    bostonTeam:
+      namePlayer: "Jaylen Brown"
+      positions: forward
+      number: 99
+      age: 22
+      finalsMvp: false
+
+    bullsTeam:
+      namePlayer: "Michael Jordan"
+      positions: forward
+      number: 77
+      age: 72
+      finalsMvp: true
